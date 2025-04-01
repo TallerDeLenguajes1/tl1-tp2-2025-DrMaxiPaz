@@ -1,0 +1,2 @@
+2) F_ No se puede visualizar pq el archivo se encuentra en la otra rama
+ el Source Control muestra que las ramas estan separadas y cuando se realiza el merge se combinan
